@@ -1,0 +1,16 @@
+Serial,Industry Name,Official Website,Country,Search Algorithm
+1,google,https://hbr.org,USA,Heuristic Search / Decision Trees
+2,microsoft,https://www.shrm.org,USA,Graph Search / Matching Algorithms
+3,mobile app ,https://www.apa.org,USA,BFS / DFS for Workflow Automation
+4,ai machine industry,https://sre.google,USA,A* Search / Dependency Graph Traversal
+5,bussiness support industry,https://www.nngroup.com,USA,Heuristic Evaluation / Search Trees
+6,sd industry,https://uxdesign.cc,Global,Heuristic Search / Pattern Matching
+7,automotive industry,https://developer.mozilla.org,Global,Graph Traversal / Caching Algorithms
+8,cloud computing ,https://spring.io,Global,DFS / Dependency Resolution
+9,AI ENGENERRING,https://react.dev,Global,BFS / State Exploration
+10,WEB DEVELOPMENT IND,https://www.istqb.org,Global,BFS / DFS for Test Case Generation
+11,META AI,https://www.selenium.dev,Global,State-Space Search / Coverage Algorithms
+12,CHATGPT,https://www.ieee.org,Global,Dijkstra / A* for Network Routing
+13,NAVIGATIO MAPS,https://ai.google,USA,A* / Reinforcement Learning / Heuristic Search
+14,MOBILE NETWORKING,https://developer.android.com,Global,Dependency Graph Search / Optimization Algorithms
+15,SATELLITE INDUSTRY,https://zendesk.com,Global,Decision Trees / BFS for Knowledge Base Search
